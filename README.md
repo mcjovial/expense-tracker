@@ -9,7 +9,7 @@ JSON Web Token (JWT) for authentication.
 
 1. **Clone the repo from GitHub**
    ```sh
-   git clone https://github.com/mcjovial/expense-tracker-api.git
+   git clone https://github.com/mcjovial/expense-tracker.git
    cd expense-tracker-api
    ```
 2. **Spin-up PostgreSQL database instance**
